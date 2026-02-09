@@ -1,0 +1,7 @@
+name: 'Four Museum Recipe'
+description: ''
+type: 'Site'
+install:
+  - 'conditional_fields'
+  - 'time_field'
+  - 'four_museum_events'
