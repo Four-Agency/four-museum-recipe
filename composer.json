@@ -1,6 +1,7 @@
 {
     "name": "four/museum-recipe",
     "type": "drupal-recipe",
+    "description": "A Drupal recipe for the Four Museum project.",
     "authors": [
         {
             "name": "Marcus Williams",
