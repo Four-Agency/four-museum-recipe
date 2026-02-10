@@ -1,5 +1,5 @@
 name: 'Four Museum Recipe'
-description: ''
+description: 'Adds the content types and fields Events'
 type: 'Site'
 install:
   - 'conditional_fields'
